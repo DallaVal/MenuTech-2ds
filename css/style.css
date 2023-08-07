@@ -1,0 +1,11 @@
+header{
+    color: #fff;
+    background-color: #000;
+}
+
+header ul li a{
+    color: #fff;
+}
+header ul li{
+    display: inline-block;
+}
